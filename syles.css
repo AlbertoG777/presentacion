@@ -1,0 +1,109 @@
+body{
+    background-color: #a0acbd;
+    
+     /* height: 300px;
+     
+     background-color: #a0acbd;
+     border-top: 10px solid white;
+     color: #11122b;
+     display: flex;
+     justify-content: center;
+     align-items: center; */
+     border-top: 10px solid white;
+     /* color: #11122b; */
+}
+
+h1 {
+color: #192532;
+font-family: 'Caveat', cursive;
+font-size: 100px;
+text-align: center;
+}
+
+
+.header img {
+width: 500px;
+}
+
+
+    
+.taller {
+    width: 1420px;
+    height: 600px;
+    position: relative;
+    top: -60px;
+}
+
+.nav-link a{
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    padding:1px 20px ;
+    background-color: #11122b;
+    color: #e8faff;
+    width: 80px;
+    border-radius: 78px;
+     position: absolute;
+     bottom: 700px;
+     left: 1200px;
+
+}
+
+
+/* SERVICIOS */
+
+body {
+    background-color: #384351;
+    border-top: 10px solid white;
+}
+
+h1 {
+    color: #e8f4ff;
+    font-family: 'Caveat', cursive;
+    font-size: 100px;
+    text-align: center; 
+}
+
+.nav-link a {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    padding:1px 20px ;
+    background-color: #11122b;
+    color: #e8faff;
+    width: 80px;
+    border-radius: 78px;
+     position: absolute;
+     bottom: 700px;
+     left: 1200px;
+
+}
+
+
+
+
+
+/* ABOUT US */
+
+body {
+    background-color: #384351;
+    border-top: 10px solid white;
+}
+
+h1 {
+    color: #e8f4ff;
+    font-family: 'Caveat', cursive;
+    font-size: 100px;
+    text-align: center; 
+}
+
+.nav-link2 a {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    padding:1px 20px ;
+    background-color: #11122b;
+    color: #e8faff;
+    width: 80px;
+    border-radius: 78px;
+     position: absolute;
+     bottom: 650px;
+     left: 1200px;
+}

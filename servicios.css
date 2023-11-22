@@ -1,0 +1,25 @@
+body {
+    background-color: #384351;
+    border-top: 10px solid white;
+}
+
+h1 {
+    color: #e8f4ff;
+    font-family: 'Caveat', cursive;
+    font-size: 100px;
+    text-align: center; 
+}
+
+.nav-link a {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    padding:1px 20px ;
+    background-color: #11122b;
+    color: #e8faff;
+    width: 80px;
+    border-radius: 78px;
+     position: absolute;
+     bottom: 750px;
+     left: 1200px;
+
+}
