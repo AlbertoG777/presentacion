@@ -1,0 +1,184 @@
+body{
+  margin: 0px;
+  font-family: Arial;
+  
+  background: #f1f1f1;
+}
+
+.header{
+background: url(./backgrounds/mgaraje5.webp) center ;
+background-size: cover;
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 30px;
+color: whitesmoke;
+font-family: 'Caveat', cursive;
+}
+
+.headers{
+  background: url(./backgrounds/mgaraje5.webp) center ;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+  color: whitesmoke;
+  font-family: 'Caveat', cursive;
+  
+  }
+  
+
+.header h1 {
+  font-size: 50px;
+  background-color: rgba(51, 51, 51, 0.8);
+  width: 200px;
+  padding: 10px 8px;
+}
+
+.headers h1 {
+  font-size: 50px;
+  background-color: rgba(51, 51, 51, 0.8);
+  width: 200px;
+  padding: 10px 8px;
+}
+
+/* top-nav */
+
+.top-nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: red;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+
+/* row */
+
+/* Left column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #333;
+  padding-left: 20px;
+  
+}
+
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  background-color: #333;
+  padding-left: 20px;
+}
+
+/* Fake image */
+.fakeimg {
+  height: 240px;
+  object-fit: cover;
+  background-color: #aaa;
+  width: 300px;
+  padding: 10px;
+}
+
+/* Add a card effect for articles */
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.forms{
+  display: flex;
+  margin: auto;
+  width: 60%;
+  
+  padding: 10px;
+}
+
+/* SERVICE.HTML */
+body{font-family: Arial, Helvetica, sans-serif;}
+* {box-sizing: border-box;}
+
+h3{
+  margin-left: 19px;
+}
+h2{
+  margin-left: 1px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #333;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: red;
+}
+
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.bottom {
+  background-color: #333;
+  /* background: url(./backgrounds/mgaraje5.webp) center ; */
+  display: flex;
+flex-direction: column;
+align-items: center;
+padding: 15px;
+color: whitesmoke;
+font-family: 'Caveat', cursive;
+}
+
+.footer-phone-hours{
+display: flex;
+gap: 20px;
+padding-left: 20px;
+}
+
+.logo-footer  > img {
+  height: 150px;
+  
+}
+
+.copyright-wrapper :hover {
+  color: whitesmoke;
+}
