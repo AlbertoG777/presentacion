@@ -27,8 +27,11 @@ h1 {
     width: 700px;
     position: absolute;
     top: 300px;
+    
 }
 
-h3 {
-    columns: 2;
+.texto {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+     color: aliceblue;
 }

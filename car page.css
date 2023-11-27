@@ -29,7 +29,7 @@ width: 500px;
     
 .taller {
     width: 1420px;
-    height: 600px;
+    height: 560px;
     position: relative;
     top: -60px;
 }
@@ -72,7 +72,7 @@ h1 {
     width: 80px;
     border-radius: 78px;
      position: absolute;
-     bottom: 700px;
+     bottom: 650px;
      left: 1200px;
 
 }
@@ -106,4 +106,27 @@ h1 {
      position: absolute;
      bottom: 650px;
      left: 1200px;
+}
+
+.nav-link4 a {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    padding:1px 20px ;
+    background-color: #11122b;
+    color: #e8faff;
+    width: 80px;
+    border-radius: 78px;
+     position: absolute;
+     bottom: 700px;
+     left: 1200px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }

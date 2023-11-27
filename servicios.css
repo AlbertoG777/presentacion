@@ -23,3 +23,73 @@ h1 {
      left: 1200px;
 
 }
+
+.aceite img {
+    width: 350px;
+    height: 250px;
+    border-radius: 78px;
+    margin-left: 80px;
+    position: absolute;
+    bottom: 285px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    right: 970px;
+    bottom: 200px;
+    font-size: 25px;
+}
+
+.suspencion img {
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    right: 555px;
+    bottom: 285px;
+    border-radius: 78px;
+}
+
+h3 {
+    color: whitesmoke;
+    position: absolute;
+    right: 645px;
+    bottom: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.swaps img {
+    width: 350px;
+    height: 250px;
+    border-radius: 78px;
+    position: absolute;
+    right: 100px;
+    bottom: 285px;
+    margin-right: 5px;
+    
+}
+
+h6 {
+    position: absolute;
+    left: 1060px;
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 160px;
+}
+
+
+footer{
+    
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
