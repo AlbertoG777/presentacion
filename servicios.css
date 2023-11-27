@@ -1,0 +1,95 @@
+body {
+    background-color: #384351;
+    border-top: 10px solid white;
+}
+
+h1 {
+    color: #e8f4ff;
+    font-family: 'Caveat', cursive;
+    font-size: 100px;
+    text-align: center; 
+}
+
+.nav-link a {
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    padding:1px 20px ;
+    background-color: #11122b;
+    color: #e8faff;
+    width: 80px;
+    border-radius: 78px;
+     position: absolute;
+     bottom: 750px;
+     left: 1200px;
+
+}
+
+.aceite img {
+    width: 350px;
+    height: 250px;
+    border-radius: 78px;
+    margin-left: 80px;
+    position: absolute;
+    bottom: 285px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    right: 970px;
+    bottom: 200px;
+    font-size: 25px;
+}
+
+.suspencion img {
+    width: 350px;
+    height: 250px;
+    position: absolute;
+    right: 555px;
+    bottom: 285px;
+    border-radius: 78px;
+}
+
+h3 {
+    color: whitesmoke;
+    position: absolute;
+    right: 645px;
+    bottom: 200px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+
+.swaps img {
+    width: 350px;
+    height: 250px;
+    border-radius: 78px;
+    position: absolute;
+    right: 100px;
+    bottom: 285px;
+    margin-right: 5px;
+    
+}
+
+h6 {
+    position: absolute;
+    left: 1060px;
+    font-size: 25px;
+    color: whitesmoke;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 160px;
+}
+
+
+footer{
+    
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
